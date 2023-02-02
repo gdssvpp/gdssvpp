@@ -1,9 +1,12 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 # 💫 Sobre Mim:
 Atualmente estudo o dobro do que eu trabalho...<br><br>Estudo Java/SpringBoot, JS e algumas coisas mais..<br><br>Acredito que experiências e vivências nunca são de mais.<br><br>Keep ballin' 🏀 and keep coding 👨‍💻.<br><br>Quero ser referência daqui uns anos.
 
 # 💫 About Me:
 Currently studying twice as much as I work...<br><br>I study Java/SpringBoot, JS and a few more things..<br><br>I believe that experiences are never too much..<br><br>Keep ballin' 🏀 and keep coding 👨‍💻.<br><br>I want to be a reference in a few years.
 
+<i class="devicon-devicon-plain"></i>
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablo-nogueira-9a03132) 
