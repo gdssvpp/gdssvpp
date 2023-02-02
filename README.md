@@ -1,10 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-# 💫 Sobre Mim:
-Atualmente estudo o dobro do que eu trabalho...<br><br>Estudo Java/SpringBoot, JS e algumas coisas mais..<br><br>Acredito que experiências e vivências nunca são de mais.<br><br>Keep ballin' 🏀 and keep coding 👨‍💻.<br><br>Quero ser referência daqui uns anos.
-
 # 💫 About Me:
-Currently studying twice as much as I work...<br><br>I study Java/SpringBoot, JS and a few more things..<br><br>I believe that experiences are never too much..<br><br>Keep ballin' 🏀 and keep coding 👨‍💻.<br><br>I want to be a reference in a few years.
+Let me introduce myself. My name is Pablo Nogueira, currently living in Praia Grande, São Paulo. Studying twice as much as I work... Sometimes. I study Java/SpringBoot, JS and a few more things much for my work, but.. It's a cool language. I believe that experiences are never too much.. I want to be a reference in a few years.<br/><br/>  Keep ballin' 🏀 and keep coding 👨‍💻.
 
 <i class="devicon-devicon-plain"></i>
 
