@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 # 💫 About Me:
-Let me introduce myself. My name is Pablo Nogueira, currently living in Praia Grande, São Paulo. Studying twice as much as I work... Sometimes. I study Java/SpringBoot, JS and a few more things much for my work, but.. It's a cool language. I believe that experiences are never too much.. I want to be a reference in a few years.<br/><br/>  Keep ballin' 🏀 and keep coding 👨‍💻.
+Let me introduce myself. My name is Pablo Nogueira, currently living in Praia Grande, São Paulo. Studying twice as much as I work... Sometimes. I study Java/SpringBoot, JS and a few more things. I believe that experiences are never too much.. I want to be a reference in a few years.<br/><br/>  Keep ballin' 🏀 and keep coding 👨‍💻.
 
 <i class="devicon-devicon-plain"></i>
 
