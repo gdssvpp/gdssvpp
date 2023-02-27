@@ -5,7 +5,7 @@ Let me introduce myself. My name is Pablo Nogueira, 22 yo, currently living in P
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablo-nogueira-9a03132) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-nogueira-9a03132) 
 
 # 💻 Tech Stack:
 <div>
