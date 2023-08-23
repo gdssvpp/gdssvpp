@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 # 💫 About Me:
-Let me introduce myself. My name is Pablo Nogueira, 22 yo, currently living in Praia Grande, São Paulo. Studying twice as much as I work... Sometimes. I study Java/SpringBoot, JS and a few more things. I started in I.T in 2018 and had my first experience in 2022. I believe that experiences are never too much.. I want to be a reference in a few years.<br/><br/>  Keep ballin' 🏀 and keep coding 👨‍💻.
+Let me introduce myself. My name is Pablo Nogueira, 23 yo, currently living in Praia Grande, São Paulo. Studying twice as much as I work... Sometimes. I study Java/SpringBoot, JS and a few more things. I started in I.T in 2018 and had my first experience in 2022. I believe that experiences are never too much.. I want to be a reference in a few years.<br/><br/>  Keep ballin' 🏀 and keep coding 👨‍💻.
 
 
 ## 🌐 Social:
